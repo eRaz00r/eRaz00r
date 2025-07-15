@@ -1,4 +1,4 @@
-# 👋 Hewwo there! I'm Chris Farrugia
+# 👋 Hewwo there! I'm Chris 
 
 > 💻 Software engineer since floppy disks were a thing.  
 > 🤖 Studied AI before it was cool (Class of 2004).  
